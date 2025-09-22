@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>   // my first commit
 
 int main (void) 
 {
@@ -24,4 +24,5 @@ int main (void)
 	after_discount = purchase - discount;
 
 	printf("\nthe amount after the discount is: %.1f", after_discount);
+
 }
